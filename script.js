@@ -114,7 +114,7 @@ Plotly.d3.csv('https://raw.githubusercontent.com/paggel/Plot_Greek_Voters/master
 	var data = [trace1, trace2, trace3, trace4, trace5, trace6, trace7, trace8, trace9, trace10];
 
 	var layout = {
-	title: 'Greek Voters population',
+	title: 'Greek Voters population (2014)',
 	xaxis : {
 		title:'Region Units'
 	},
